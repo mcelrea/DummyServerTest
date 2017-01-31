@@ -6,6 +6,7 @@ import com.mcelrea.firstservertry.MyGdxGame;
 
 public class DesktopLauncher {
 	public static void main (String[] arg) {
+		//vicente hernandez
 		LwjglApplicationConfiguration config = new LwjglApplicationConfiguration();
 		new LwjglApplication(new MyGdxGame(), config);
 	}
