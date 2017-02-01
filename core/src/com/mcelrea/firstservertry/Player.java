@@ -9,6 +9,7 @@ public class Player {
     private Color color;
     private float prevX;
     private float prevY;
+    private float z;
 
     public Player(Color color) {
         this.color = color;
